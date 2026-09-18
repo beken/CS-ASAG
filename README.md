@@ -1,4 +1,4 @@
-# SWE-ASAG
+# CS-ASAG
 
 This repository contains a student answer dataset collected from Software Engineering and Computer Science courses for research on Automated Short Answer Grading (ASAG).
 
